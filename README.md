@@ -95,22 +95,5 @@ html basics to advance
 
 
 
-14. Practical Projects to Build
-
-Project	Skills Covered
-Personal Portfolio	Layout, links, images, semantic tags
-Resume webpage	Tables, lists, text formatting
-Login & register page	Forms, input types
-Product listing page	Cards, images, links
-Blog article	Semantic structure
 
 
-
-
-
-
-
-
- Summary Roadmap (One-Line Flow)
-
-HTML basics → Tags → Links → Images → Lists → Tables → Forms → Semantic HTML → Accessibility → Best Practices → Mini Projects
